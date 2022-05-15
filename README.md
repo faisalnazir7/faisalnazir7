@@ -1,8 +1,11 @@
 ![](https://github.com/faisalnazir7/profile_overview/blob/main/h%20_new.gif)
 <h3 align="center">MERN Stack || Blockchain</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+
+
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://twitter.com/faisalnazir7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="faisalnazir7" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/faisal-nazir-361945133/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="faisal-nazir-361945133/" height="30" width="40" /></a>
 <a href="https://instagram.com/faisal_nazir7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="faisal_nazir7" height="30" width="40" /></a>
