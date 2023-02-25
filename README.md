@@ -1,15 +1,6 @@
 ![](https://github.com/faisalnazir7/faisalnazir7/blob/main/gif07%20(1).gif)
 <h3 align="center"></h3>
 
-
-
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://linkedin.com/in/faisal-nazir-361945133/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="faisal-nazir-361945133/" height="30" width="40" /></a>
-<!-- <a href="https://instagram.com/faisal_nazir7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="faisal_nazir7" height="30" width="40" /></a> -->
-</p>
-
 <h3 align="center">Languages, Technologies and Tools:</h3>
 <h3 align="center">Languages:</h3>
 <p align="center">
