@@ -1,4 +1,4 @@
-![](https://github.com/faisalnazir7/faisalnazir7/blob/main/gif07%20(1).gif)
+<!-- ![](https://github.com/faisalnazir7/faisalnazir7/blob/main/gif07%20(1).gif) -->
 <h3 align="center"></h3>
 
 <h3 align="center">Languages, Technologies and Tools:</h3>
